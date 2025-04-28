@@ -11,6 +11,7 @@
 - Responsive layout for portrait and landscape
 - SwiftUI custom button styling
 - Clean, scalable architecture for future extensions
+- Supports accesibility 
 
 ##  Getting Started
 
